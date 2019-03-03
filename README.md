@@ -1,6 +1,6 @@
 # Constructing a decision tree
 
-I have implemented the code for constructing a decision tree, given a csv file of all the data points and their corresponding labels.
+I have implemented the code for constructing a decision tree, given a csv file of all the data points and their corresponding labels. The labels must be in the *last column*.
 
 ## Getting Started
 
